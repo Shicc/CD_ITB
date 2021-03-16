@@ -15,6 +15,6 @@
   * labels.csv
 
 ## 测试
-![](png/3.png)
-![](png/1.png)
-![](png/2.png)
+![](https://github.com/Shicc/CD_ITB/raw/master/png/3.png)
+![](https://github.com/Shicc/CD_ITB/raw/master/png/1.png)
+![](https://github.com/Shicc/CD_ITB/raw/master/png/2.png)
