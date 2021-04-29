@@ -4,7 +4,8 @@
 1. 图片预处理（删除无用+剪切+保存）`preprocessing_data.py`
 2. 根据数据集样式制作自己的Dataset类并提供迭代方法 `data_loader.py`
 3. 测试好前两个功能 `test.ipynb`
-4. 更多待做。。。
+4. ……
+5. 涉密项目，仅保存少部分脱密代码
 
 ## 数据集结构
 * dataset
@@ -15,6 +16,7 @@
   * labels.csv
 
 ## 测试
+png文件夹
 ![](https://github.com/Shicc/CD_ITB/raw/master/png/3.png)
 ![](https://github.com/Shicc/CD_ITB/raw/master/png/1.png)
 ![](https://github.com/Shicc/CD_ITB/raw/master/png/2.png)
